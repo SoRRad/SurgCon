@@ -1,0 +1,79 @@
+{
+  "officialSocieties": [
+    {
+      "id": "academic-surgical-congress",
+      "label": "Academic Surgical Congress official site",
+      "url": "https://www.academicsurgicalcongress.org/asc-logo/",
+      "sourceType": "official",
+      "focus": ["academic surgery", "general surgery", "resident research"]
+    },
+    {
+      "id": "american-surgical-association",
+      "label": "American Surgical Association future meetings",
+      "url": "https://meeting.americansurgical.org/Archives/",
+      "sourceType": "official",
+      "focus": ["academic surgery", "leadership", "general surgery"]
+    },
+    {
+      "id": "apsa-official",
+      "label": "American Pediatric Surgical Association official site",
+      "url": "https://apsapedsurg.org/",
+      "sourceType": "official",
+      "focus": ["pediatric surgery"]
+    },
+    {
+      "id": "sbas-official",
+      "label": "Society of Black Academic Surgeons official site",
+      "url": "https://sbas.net/",
+      "sourceType": "official",
+      "focus": ["academic surgery", "diversity", "mentorship"]
+    },
+    {
+      "id": "aws-official",
+      "label": "Association of Women Surgeons official site",
+      "url": "https://www.womensurgeons.org/about",
+      "sourceType": "official",
+      "focus": ["academic surgery", "career development", "mentorship"]
+    }
+  ],
+  "trustedDirectories": [
+    {
+      "id": "upenn-cshe",
+      "label": "UPenn CSHE abstract deadlines and meeting dates",
+      "url": "https://www.med.upenn.edu/CSHE/abstract-deadlines-and-meeting-dates.html",
+      "sourceType": "trusted-directory",
+      "focus": ["academic surgery", "research", "multispecialty"]
+    },
+    {
+      "id": "northwestern-surgery-calendar",
+      "label": "Northwestern Surgery conference calendar",
+      "url": "https://www.surgery.northwestern.edu/education/residency/resident-research/conferences.html",
+      "sourceType": "trusted-directory",
+      "focus": ["resident research", "academic surgery", "multispecialty"]
+    },
+    {
+      "id": "ctsnet-calendar",
+      "label": "CTSNet event calendar",
+      "url": "https://www.ctsnet.org/calendar",
+      "sourceType": "trusted-directory",
+      "focus": ["cardiothoracic surgery", "thoracic surgery", "cardiovascular surgery"]
+    },
+    {
+      "id": "penn-trauma-calendar",
+      "label": "Penn Trauma conference calendar",
+      "url": "https://www.med.upenn.edu/trauma-scc-ess-research/conferences",
+      "sourceType": "trusted-directory",
+      "focus": ["trauma", "critical care", "acute care surgery"]
+    }
+  ],
+  "broadAggregators": [
+    {
+      "id": "legacy-surgicalhub",
+      "label": "SurgicalHub legacy reference dataset",
+      "url": "",
+      "sourceType": "legacy",
+      "focus": ["legacy metadata", "historical records", "conference schema ideas"]
+    }
+  ],
+  "legacyManual": []
+}

@@ -1,0 +1,38 @@
+name: Conference submission
+description: Suggest a missing conference or meeting for SurgCon review.
+title: "Conference submission: "
+labels:
+  - data-review
+  - submission
+body:
+  - type: input
+    id: conference_name
+    attributes:
+      label: Conference name
+      placeholder: Association of Women Surgeons Annual Conference 2026
+    validations:
+      required: true
+  - type: input
+    id: organization
+    attributes:
+      label: Organization
+      placeholder: Association of Women Surgeons
+    validations:
+      required: true
+  - type: textarea
+    id: core_details
+    attributes:
+      label: Dates, location, and specialty
+      placeholder: October 15-17, 2026 | Lexington, Kentucky | Trauma, Critical Care, and General Surgery
+    validations:
+      required: true
+  - type: input
+    id: source_url
+    attributes:
+      label: Source URL
+      placeholder: https://example.org/official-meeting-page
+  - type: textarea
+    id: why_relevant
+    attributes:
+      label: Why should SurgCon include this meeting?
+      placeholder: Important resident-friendly academic surgery meeting with strong mentorship and regional significance.

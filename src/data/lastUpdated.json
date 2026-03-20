@@ -1,0 +1,22 @@
+{
+  "lastUpdated": "2026-03-20T07:05:37.873Z",
+  "sourceRecordCount": 56,
+  "normalizedRecordCount": 56,
+  "supportedYears": "2024 onward",
+  "workflow": "Edit src/data/conferenceSources.json or run the Python review pipeline, then run npm run refresh-data.",
+  "masterDatasetStrategy": "Additive merge against the existing published dataset from 2024 onward.",
+  "reviewSummary": {
+    "confirmed": 23,
+    "candidate": 33,
+    "flagged": 0
+  },
+  "sourceSummary": {
+    "official": 20,
+    "trustedDirectory": 13,
+    "aggregator": 0,
+    "legacy": 3,
+    "manual": 20,
+    "userSubmitted": 0
+  },
+  "preservedHistoricalRecordCount": 7
+}

@@ -1,0 +1,27 @@
+name: Conference correction
+description: Report incorrect, missing, or outdated conference data in SurgCon.
+title: "Conference data correction: "
+labels:
+  - data-review
+  - correction
+body:
+  - type: input
+    id: conference_name
+    attributes:
+      label: Conference name
+      placeholder: ACS Clinical Congress 2026
+    validations:
+      required: true
+  - type: textarea
+    id: correction_details
+    attributes:
+      label: What needs to be corrected?
+      description: Include the corrected dates, location, source link, or other metadata.
+      placeholder: The official meeting page lists a different city and updated abstract deadline.
+    validations:
+      required: true
+  - type: input
+    id: source_url
+    attributes:
+      label: Supporting source URL
+      placeholder: https://example.org/official-meeting-page

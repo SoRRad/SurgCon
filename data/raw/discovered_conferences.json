@@ -1,0 +1,935 @@
+{
+  "generatedAt": "2026-03-20T07:05:33.858205+00:00",
+  "configuredSources": [
+    {
+      "id": "academic-surgical-congress",
+      "label": "Academic Surgical Congress official site",
+      "url": "https://www.academicsurgicalcongress.org/asc-logo/",
+      "sourceType": "official",
+      "focus": [
+        "academic surgery",
+        "general surgery",
+        "resident research"
+      ],
+      "group": "officialSocieties"
+    },
+    {
+      "id": "american-surgical-association",
+      "label": "American Surgical Association future meetings",
+      "url": "https://meeting.americansurgical.org/Archives/",
+      "sourceType": "official",
+      "focus": [
+        "academic surgery",
+        "leadership",
+        "general surgery"
+      ],
+      "group": "officialSocieties"
+    },
+    {
+      "id": "apsa-official",
+      "label": "American Pediatric Surgical Association official site",
+      "url": "https://apsapedsurg.org/",
+      "sourceType": "official",
+      "focus": [
+        "pediatric surgery"
+      ],
+      "group": "officialSocieties"
+    },
+    {
+      "id": "sbas-official",
+      "label": "Society of Black Academic Surgeons official site",
+      "url": "https://sbas.net/",
+      "sourceType": "official",
+      "focus": [
+        "academic surgery",
+        "diversity",
+        "mentorship"
+      ],
+      "group": "officialSocieties"
+    },
+    {
+      "id": "aws-official",
+      "label": "Association of Women Surgeons official site",
+      "url": "https://www.womensurgeons.org/about",
+      "sourceType": "official",
+      "focus": [
+        "academic surgery",
+        "career development",
+        "mentorship"
+      ],
+      "group": "officialSocieties"
+    },
+    {
+      "id": "upenn-cshe",
+      "label": "UPenn CSHE abstract deadlines and meeting dates",
+      "url": "https://www.med.upenn.edu/CSHE/abstract-deadlines-and-meeting-dates.html",
+      "sourceType": "trusted-directory",
+      "focus": [
+        "academic surgery",
+        "research",
+        "multispecialty"
+      ],
+      "group": "trustedDirectories"
+    },
+    {
+      "id": "northwestern-surgery-calendar",
+      "label": "Northwestern Surgery conference calendar",
+      "url": "https://www.surgery.northwestern.edu/education/residency/resident-research/conferences.html",
+      "sourceType": "trusted-directory",
+      "focus": [
+        "resident research",
+        "academic surgery",
+        "multispecialty"
+      ],
+      "group": "trustedDirectories"
+    },
+    {
+      "id": "ctsnet-calendar",
+      "label": "CTSNet event calendar",
+      "url": "https://www.ctsnet.org/calendar",
+      "sourceType": "trusted-directory",
+      "focus": [
+        "cardiothoracic surgery",
+        "thoracic surgery",
+        "cardiovascular surgery"
+      ],
+      "group": "trustedDirectories"
+    },
+    {
+      "id": "penn-trauma-calendar",
+      "label": "Penn Trauma conference calendar",
+      "url": "https://www.med.upenn.edu/trauma-scc-ess-research/conferences",
+      "sourceType": "trusted-directory",
+      "focus": [
+        "trauma",
+        "critical care",
+        "acute care surgery"
+      ],
+      "group": "trustedDirectories"
+    },
+    {
+      "id": "legacy-surgicalhub",
+      "label": "SurgicalHub legacy reference dataset",
+      "url": "",
+      "sourceType": "legacy",
+      "focus": [
+        "legacy metadata",
+        "historical records",
+        "conference schema ideas"
+      ],
+      "group": "broadAggregators"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "srs-annual-meeting-2026",
+      "name": "SRS Annual Meeting 2026",
+      "year": 2026,
+      "categories": [
+        "Neurologic Surgery",
+        "Trauma, Critical Care, and General Surgery"
+      ],
+      "meetingUrl": "",
+      "sourceUrl": "",
+      "sourceType": "manual",
+      "reviewStatus": "confirmed",
+      "lastChecked": null,
+      "flags": []
+    },
+    {
+      "id": "asc-21st-congress-2026",
+      "name": "Academic Surgical Congress 2026",
+      "year": 2026,
+      "categories": [
+        "Trauma, Critical Care, and General Surgery"
+      ],
+      "meetingUrl": "https://www.academicsurgicalcongress.org/asc-logo/",
+      "sourceUrl": "https://www.academicsurgicalcongress.org/asc-logo/",
+      "sourceType": "official",
+      "reviewStatus": "confirmed",
+      "lastChecked": "2026-03-20",
+      "flags": []
+    },
+    {
+      "id": "asit-50th-annual-surgical-conference-2026",
+      "name": "ASIT 50th Annual Surgical Conference",
+      "year": 2026,
+      "categories": [
+        "Trauma, Critical Care, and General Surgery"
+      ],
+      "meetingUrl": "",
+      "sourceUrl": "",
+      "sourceType": "manual",
+      "reviewStatus": "confirmed",
+      "lastChecked": null,
+      "flags": []
+    },
+    {
+      "id": "asa-146th-annual-meeting-2026",
+      "name": "American Surgical Association 146th Annual Meeting",
+      "year": 2026,
+      "categories": [
+        "Trauma, Critical Care, and General Surgery"
+      ],
+      "meetingUrl": "https://meeting.americansurgical.org/Housing/",
+      "sourceUrl": "https://meeting.americansurgical.org/Archives/",
+      "sourceType": "official",
+      "reviewStatus": "confirmed",
+      "lastChecked": "2026-03-20",
+      "flags": []
+    },
+    {
+      "id": "racs-94th-annual-congress-2026",
+      "name": "RACS 94th Annual Congress",
+      "year": 2026,
+      "categories": [
+        "Trauma, Critical Care, and General Surgery"
+      ],
+      "meetingUrl": "",
+      "sourceUrl": "",
+      "sourceType": "manual",
+      "reviewStatus": "confirmed",
+      "lastChecked": null,
+      "flags": []
+    },
+    {
+      "id": "ilts-annual-congress-2026",
+      "name": "ILTS Annual Congress",
+      "year": 2026,
+      "categories": [
+        "Hepatobiliary and Pancreas Surgery"
+      ],
+      "meetingUrl": "",
+      "sourceUrl": "",
+      "sourceType": "manual",
+      "reviewStatus": "confirmed",
+      "lastChecked": null,
+      "flags": []
+    },
+    {
+      "id": "eaes-34th-congress-2026",
+      "name": "EAES 34th Congress",
+      "year": 2026,
+      "categories": [
+        "Metabolic & Abdominal Wall Reconstructive Surgery",
+        "Hepatobiliary and Pancreas Surgery"
+      ],
+      "meetingUrl": "",
+      "sourceUrl": "",
+      "sourceType": "manual",
+      "reviewStatus": "confirmed",
+      "lastChecked": null,
+      "flags": []
+    },
+    {
+      "id": "acs-quality-safety-cancer-conference-2026",
+      "name": "ACS Quality, Safety & Cancer Conference",
+      "year": 2026,
+      "categories": [
+        "Breast & Melanoma Surgical Oncology",
+        "Trauma, Critical Care, and General Surgery"
+      ],
+      "meetingUrl": "",
+      "sourceUrl": "",
+      "sourceType": "manual",
+      "reviewStatus": "confirmed",
+      "lastChecked": null,
+      "flags": []
+    },
+    {
+      "id": "acs-clinical-congress-2026",
+      "name": "ACS Clinical Congress 2026",
+      "year": 2026,
+      "categories": [
+        "Trauma, Critical Care, and General Surgery"
+      ],
+      "meetingUrl": "https://www.facs.org/for-medical-professionals/conferences-and-meetings/clinical-congress/",
+      "sourceUrl": "",
+      "sourceType": "manual",
+      "reviewStatus": "confirmed",
+      "lastChecked": null,
+      "flags": []
+    },
+    {
+      "id": "ihpba-17th-world-congress-2026",
+      "name": "IHPBA 17th World Congress",
+      "year": 2026,
+      "categories": [
+        "Hepatobiliary and Pancreas Surgery"
+      ],
+      "meetingUrl": "",
+      "sourceUrl": "",
+      "sourceType": "manual",
+      "reviewStatus": "confirmed",
+      "lastChecked": null,
+      "flags": []
+    },
+    {
+      "id": "midwestern-association-of-plastic-surgeons-2026",
+      "name": "Midwestern Association of Plastic Surgeons Annual Meeting 2026",
+      "year": 2026,
+      "categories": [
+        "Plastic & Reconstructive Surgery"
+      ],
+      "meetingUrl": "",
+      "sourceUrl": "",
+      "sourceType": "manual",
+      "reviewStatus": "confirmed",
+      "lastChecked": null,
+      "flags": []
+    },
+    {
+      "id": "canadian-society-of-plastic-surgeons-2026",
+      "name": "Canadian Society of Plastic Surgeons Annual Meeting 2026",
+      "year": 2026,
+      "categories": [
+        "Plastic & Reconstructive Surgery"
+      ],
+      "meetingUrl": "",
+      "sourceUrl": "",
+      "sourceType": "manual",
+      "reviewStatus": "confirmed",
+      "lastChecked": null,
+      "flags": []
+    },
+    {
+      "id": "abdominal-wall-reconstruction-summit-2026",
+      "name": "Abdominal Wall Reconstruction Summit 2026",
+      "year": 2026,
+      "categories": [
+        "Metabolic & Abdominal Wall Reconstructive Surgery"
+      ],
+      "meetingUrl": "",
+      "sourceUrl": "",
+      "sourceType": "manual",
+      "reviewStatus": "confirmed",
+      "lastChecked": null,
+      "flags": []
+    },
+    {
+      "id": "asmbs-annual-meeting-2026",
+      "name": "ASMBS Annual Meeting 2026",
+      "year": 2026,
+      "categories": [
+        "Metabolic & Abdominal Wall Reconstructive Surgery"
+      ],
+      "meetingUrl": "",
+      "sourceUrl": "",
+      "sourceType": "manual",
+      "reviewStatus": "confirmed",
+      "lastChecked": null,
+      "flags": []
+    },
+    {
+      "id": "aats-annual-meeting-2026",
+      "name": "AATS Annual Meeting 2026",
+      "year": 2026,
+      "categories": [
+        "Cardiothoracic Surgery",
+        "Thoracic Surgery"
+      ],
+      "meetingUrl": "",
+      "sourceUrl": "",
+      "sourceType": "manual",
+      "reviewStatus": "confirmed",
+      "lastChecked": null,
+      "flags": []
+    },
+    {
+      "id": "east-annual-scientific-assembly-2026",
+      "name": "EAST Annual Scientific Assembly 2026",
+      "year": 2026,
+      "categories": [
+        "Trauma, Critical Care, and General Surgery"
+      ],
+      "meetingUrl": "",
+      "sourceUrl": "",
+      "sourceType": "manual",
+      "reviewStatus": "confirmed",
+      "lastChecked": null,
+      "flags": []
+    },
+    {
+      "id": "vascular-annual-meeting-2026",
+      "name": "Vascular Annual Meeting 2026",
+      "year": 2026,
+      "categories": [
+        "Vascular Surgery"
+      ],
+      "meetingUrl": "",
+      "sourceUrl": "",
+      "sourceType": "manual",
+      "reviewStatus": "confirmed",
+      "lastChecked": null,
+      "flags": []
+    },
+    {
+      "id": "aaes-annual-meeting-2026",
+      "name": "AAES Annual Meeting 2026",
+      "year": 2026,
+      "categories": [
+        "Endocrine Surgery"
+      ],
+      "meetingUrl": "",
+      "sourceUrl": "",
+      "sourceType": "manual",
+      "reviewStatus": "confirmed",
+      "lastChecked": null,
+      "flags": []
+    },
+    {
+      "id": "ascrs-annual-scientific-meeting-2026",
+      "name": "ASCRS Annual Scientific Meeting 2026",
+      "year": 2026,
+      "categories": [
+        "Colon and Rectal Surgery"
+      ],
+      "meetingUrl": "",
+      "sourceUrl": "",
+      "sourceType": "manual",
+      "reviewStatus": "confirmed",
+      "lastChecked": null,
+      "flags": []
+    },
+    {
+      "id": "sso-surgical-cancer-symposium-2026",
+      "name": "SSO International Conference on Surgical Cancer Care 2026",
+      "year": 2026,
+      "categories": [
+        "Breast & Melanoma Surgical Oncology"
+      ],
+      "meetingUrl": "",
+      "sourceUrl": "",
+      "sourceType": "manual",
+      "reviewStatus": "confirmed",
+      "lastChecked": null,
+      "flags": []
+    },
+    {
+      "id": "ahpba-annual-meeting-2026",
+      "name": "AHPBA Annual Meeting 2026",
+      "year": 2026,
+      "categories": [
+        "Hepatobiliary and Pancreas Surgery"
+      ],
+      "meetingUrl": "",
+      "sourceUrl": "",
+      "sourceType": "manual",
+      "reviewStatus": "confirmed",
+      "lastChecked": null,
+      "flags": []
+    },
+    {
+      "id": "western-trauma-association-2026",
+      "name": "Western Trauma Association Annual Meeting 2026",
+      "year": 2026,
+      "categories": [
+        "Trauma, Critical Care, and General Surgery"
+      ],
+      "meetingUrl": "",
+      "sourceUrl": "",
+      "sourceType": "manual",
+      "reviewStatus": "confirmed",
+      "lastChecked": null,
+      "flags": []
+    },
+    {
+      "id": "academyhealth-annual-research-meeting-2026",
+      "name": "AcademyHealth Annual Research Meeting 2026",
+      "year": 2026,
+      "categories": [
+        "Trauma, Critical Care, and General Surgery"
+      ],
+      "meetingUrl": "",
+      "sourceUrl": "",
+      "sourceType": "manual",
+      "reviewStatus": "confirmed",
+      "lastChecked": null,
+      "flags": []
+    },
+    {
+      "id": "psrc-annual-meeting-2026",
+      "name": "Plastic Surgery Research Council Annual Meeting 2026",
+      "year": 2026,
+      "categories": [
+        "Plastic & Reconstructive Surgery"
+      ],
+      "meetingUrl": "",
+      "sourceUrl": "",
+      "sourceType": "manual",
+      "reviewStatus": "confirmed",
+      "lastChecked": null,
+      "flags": []
+    },
+    {
+      "id": "aaps-annual-meeting-2026",
+      "name": "AAPS 103rd Annual Meeting",
+      "year": 2026,
+      "categories": [
+        "Plastic & Reconstructive Surgery"
+      ],
+      "meetingUrl": "",
+      "sourceUrl": "",
+      "sourceType": "manual",
+      "reviewStatus": "confirmed",
+      "lastChecked": null,
+      "flags": []
+    },
+    {
+      "id": "ase-annual-meeting-2026",
+      "name": "ASE 46th Annual Meeting",
+      "year": 2026,
+      "categories": [
+        "Trauma, Critical Care, and General Surgery"
+      ],
+      "meetingUrl": "",
+      "sourceUrl": "",
+      "sourceType": "manual",
+      "reviewStatus": "confirmed",
+      "lastChecked": null,
+      "flags": []
+    },
+    {
+      "id": "aast-annual-meeting-2026",
+      "name": "AAST 85th Annual Meeting",
+      "year": 2026,
+      "categories": [
+        "Trauma, Critical Care, and General Surgery"
+      ],
+      "meetingUrl": "",
+      "sourceUrl": "",
+      "sourceType": "manual",
+      "reviewStatus": "confirmed",
+      "lastChecked": null,
+      "flags": []
+    },
+    {
+      "id": "vess-annual-winter-meeting-2026",
+      "name": "VESS 50th Annual Winter Meeting",
+      "year": 2026,
+      "categories": [
+        "Vascular Surgery"
+      ],
+      "meetingUrl": "",
+      "sourceUrl": "",
+      "sourceType": "manual",
+      "reviewStatus": "confirmed",
+      "lastChecked": null,
+      "flags": []
+    },
+    {
+      "id": "wsa-scientific-session-2026",
+      "name": "WSA 134th Scientific Session",
+      "year": 2026,
+      "categories": [
+        "Trauma, Critical Care, and General Surgery"
+      ],
+      "meetingUrl": "",
+      "sourceUrl": "",
+      "sourceType": "manual",
+      "reviewStatus": "confirmed",
+      "lastChecked": null,
+      "flags": []
+    },
+    {
+      "id": "asps-plastic-surgery-the-meeting-2026",
+      "name": "ASPS Plastic Surgery The Meeting 2026",
+      "year": 2026,
+      "categories": [
+        "Plastic & Reconstructive Surgery"
+      ],
+      "meetingUrl": "",
+      "sourceUrl": "",
+      "sourceType": "manual",
+      "reviewStatus": "confirmed",
+      "lastChecked": null,
+      "flags": []
+    },
+    {
+      "id": "apds-annual-meeting-2026",
+      "name": "APDS Annual Meeting 2026",
+      "year": 2026,
+      "categories": [
+        "Trauma, Critical Care, and General Surgery"
+      ],
+      "meetingUrl": "",
+      "sourceUrl": "",
+      "sourceType": "manual",
+      "reviewStatus": "confirmed",
+      "lastChecked": null,
+      "flags": []
+    },
+    {
+      "id": "asc-22nd-congress-2027",
+      "name": "Academic Surgical Congress 2027",
+      "year": 2027,
+      "categories": [
+        "Trauma, Critical Care, and General Surgery"
+      ],
+      "meetingUrl": "",
+      "sourceUrl": "",
+      "sourceType": "manual",
+      "reviewStatus": "candidate",
+      "lastChecked": "2026-03-20",
+      "flags": [
+        "future cycle not yet officially confirmed"
+      ]
+    },
+    {
+      "id": "asa-147th-annual-meeting-2027",
+      "name": "American Surgical Association 147th Annual Meeting",
+      "year": 2027,
+      "categories": [
+        "Trauma, Critical Care, and General Surgery"
+      ],
+      "meetingUrl": "https://meeting.americansurgical.org/Archives/",
+      "sourceUrl": "https://meeting.americansurgical.org/Archives/",
+      "sourceType": "official",
+      "reviewStatus": "confirmed",
+      "lastChecked": "2026-03-20",
+      "flags": []
+    },
+    {
+      "id": "sts-annual-meeting-2027",
+      "name": "STS Annual Meeting 2027",
+      "year": 2027,
+      "categories": [
+        "Cardiothoracic Surgery",
+        "Cardiovascular Surgery",
+        "Thoracic Surgery"
+      ],
+      "meetingUrl": "",
+      "sourceUrl": "",
+      "sourceType": "manual",
+      "reviewStatus": "confirmed",
+      "lastChecked": null,
+      "flags": []
+    },
+    {
+      "id": "canadian-hernia-society-forum-2027",
+      "name": "Canadian Hernia and Abdominal Wall Forum 2027",
+      "year": 2027,
+      "categories": [
+        "Metabolic & Abdominal Wall Reconstructive Surgery"
+      ],
+      "meetingUrl": "",
+      "sourceUrl": "",
+      "sourceType": "manual",
+      "reviewStatus": "confirmed",
+      "lastChecked": null,
+      "flags": []
+    },
+    {
+      "id": "east-annual-scientific-assembly-2024",
+      "name": "EAST 37th Annual Scientific Assembly",
+      "year": 2024,
+      "categories": [
+        "Trauma, Critical Care, and General Surgery"
+      ],
+      "meetingUrl": "https://www.east.org/",
+      "sourceUrl": "https://www.east.org/education-resources/annual-scientific-assembly/annual-scientific-assembly-archive/2024-assembly-summary",
+      "sourceType": "official",
+      "reviewStatus": "confirmed",
+      "lastChecked": null,
+      "flags": []
+    },
+    {
+      "id": "acs-clinical-congress-2024",
+      "name": "ACS Clinical Congress 2024",
+      "year": 2024,
+      "categories": [
+        "Trauma, Critical Care, and General Surgery"
+      ],
+      "meetingUrl": "https://www.facs.org/for-medical-professionals/conferences-and-meetings/clinical-congress/",
+      "sourceUrl": "https://www.facs.org/for-medical-professionals/news-publications/news-and-articles/acs-brief/october-15-2024-issue/download-clinical-conference-app-and-view-convocation-livestream/",
+      "sourceType": "official",
+      "reviewStatus": "confirmed",
+      "lastChecked": null,
+      "flags": []
+    },
+    {
+      "id": "vascular-annual-meeting-2024",
+      "name": "Vascular Annual Meeting 2024",
+      "year": 2024,
+      "categories": [
+        "Vascular Surgery"
+      ],
+      "meetingUrl": "https://vascular.org/vam-2024",
+      "sourceUrl": "https://vascular.org/vascular-specialists/education-and-meetings/meetings/2024-vascular-annual-meeting",
+      "sourceType": "official",
+      "reviewStatus": "confirmed",
+      "lastChecked": null,
+      "flags": []
+    },
+    {
+      "id": "acs-clinical-congress-2025",
+      "name": "ACS Clinical Congress 2025",
+      "year": 2025,
+      "categories": [
+        "Trauma, Critical Care, and General Surgery"
+      ],
+      "meetingUrl": "https://www.facs.org/for-medical-professionals/conferences-and-meetings/clinical-congress/",
+      "sourceUrl": "",
+      "sourceType": "legacy",
+      "reviewStatus": "confirmed",
+      "lastChecked": null,
+      "flags": []
+    },
+    {
+      "id": "ascrs-annual-scientific-meeting-2025",
+      "name": "ASCRS Annual Scientific Meeting 2025",
+      "year": 2025,
+      "categories": [
+        "Colon and Rectal Surgery"
+      ],
+      "meetingUrl": "https://fascrs.org/education/annual-scientific-meeting",
+      "sourceUrl": "",
+      "sourceType": "legacy",
+      "reviewStatus": "confirmed",
+      "lastChecked": null,
+      "flags": []
+    },
+    {
+      "id": "asmbs-annual-meeting-2025",
+      "name": "ASMBS Annual Meeting 2025",
+      "year": 2025,
+      "categories": [
+        "Metabolic & Abdominal Wall Reconstructive Surgery"
+      ],
+      "meetingUrl": "https://asmbs.org/professional-education/",
+      "sourceUrl": "https://asmbs.org/professional-education/",
+      "sourceType": "official",
+      "reviewStatus": "confirmed",
+      "lastChecked": null,
+      "flags": []
+    },
+    {
+      "id": "vascular-annual-meeting-2025",
+      "name": "Vascular Annual Meeting 2025",
+      "year": 2025,
+      "categories": [
+        "Vascular Surgery"
+      ],
+      "meetingUrl": "https://vascular.org/",
+      "sourceUrl": "",
+      "sourceType": "legacy",
+      "reviewStatus": "confirmed",
+      "lastChecked": null,
+      "flags": []
+    },
+    {
+      "id": "savs-annual-meeting-2026",
+      "name": "Southern Association for Vascular Surgery Annual Meeting 2026",
+      "year": 2026,
+      "categories": [
+        "Vascular Surgery"
+      ],
+      "meetingUrl": "https://savsnet.org",
+      "sourceUrl": "https://vascular.org/vascular-specialists/education-and-meetings/meetings/southern-association-vascular-surgery-annual",
+      "sourceType": "official",
+      "reviewStatus": "confirmed",
+      "lastChecked": null,
+      "flags": []
+    },
+    {
+      "id": "aaos-annual-meeting-2026",
+      "name": "AAOS Annual Meeting 2026",
+      "year": 2026,
+      "categories": [
+        "Orthopedic Surgery"
+      ],
+      "meetingUrl": "https://annualmeeting.aaos.org/",
+      "sourceUrl": "",
+      "sourceType": "official",
+      "reviewStatus": "confirmed",
+      "lastChecked": null,
+      "flags": []
+    },
+    {
+      "id": "aans-annual-scientific-meeting-2026",
+      "name": "AANS Annual Scientific Meeting 2026",
+      "year": 2026,
+      "categories": [
+        "Neurologic Surgery"
+      ],
+      "meetingUrl": "https://annualmeeting.aans.org/",
+      "sourceUrl": "",
+      "sourceType": "official",
+      "reviewStatus": "confirmed",
+      "lastChecked": null,
+      "flags": []
+    },
+    {
+      "id": "asbrs-annual-meeting-2026",
+      "name": "ASBrS 27th Annual Meeting",
+      "year": 2026,
+      "categories": [
+        "Breast & Melanoma Surgical Oncology"
+      ],
+      "meetingUrl": "https://www.breastsurgeons.org/meeting/",
+      "sourceUrl": "",
+      "sourceType": "official",
+      "reviewStatus": "confirmed",
+      "lastChecked": null,
+      "flags": []
+    },
+    {
+      "id": "paps-annual-meeting-2026",
+      "name": "PAPS 59th Annual Meeting",
+      "year": 2026,
+      "categories": [
+        "Pediatric Surgery"
+      ],
+      "meetingUrl": "https://www.papsmeeting.com/",
+      "sourceUrl": "https://www.papsmeeting.com/",
+      "sourceType": "official",
+      "reviewStatus": "confirmed",
+      "lastChecked": null,
+      "flags": []
+    },
+    {
+      "id": "apsa-annual-meeting-2026",
+      "name": "APSA Annual Meeting 2026",
+      "year": 2026,
+      "categories": [
+        "Pediatric Surgery"
+      ],
+      "meetingUrl": "https://apsapedsurg.org/",
+      "sourceUrl": "https://apsapedsurg.org/",
+      "sourceType": "official",
+      "reviewStatus": "confirmed",
+      "lastChecked": "2026-03-20",
+      "flags": []
+    },
+    {
+      "id": "society-of-asian-academic-surgeons-2026",
+      "name": "Society of Asian Academic Surgeons Annual Meeting 2026",
+      "year": 2026,
+      "categories": [
+        "Trauma, Critical Care, and General Surgery"
+      ],
+      "meetingUrl": "",
+      "sourceUrl": "https://www.surgery.northwestern.edu/education/residency/resident-research/conferences.html",
+      "sourceType": "trusted-directory",
+      "reviewStatus": "candidate",
+      "lastChecked": "2026-03-20",
+      "flags": [
+        "future cycle not yet officially confirmed"
+      ]
+    },
+    {
+      "id": "sbas-annual-meeting-2026",
+      "name": "Society of Black Academic Surgeons Annual Meeting 2026",
+      "year": 2026,
+      "categories": [
+        "Trauma, Critical Care, and General Surgery"
+      ],
+      "meetingUrl": "https://sbas.net/",
+      "sourceUrl": "https://sbas.net/",
+      "sourceType": "official",
+      "reviewStatus": "confirmed",
+      "lastChecked": "2026-03-20",
+      "flags": []
+    },
+    {
+      "id": "acog-annual-clinical-scientific-meeting-2026",
+      "name": "ACOG Annual Clinical & Scientific Meeting 2026",
+      "year": 2026,
+      "categories": [
+        "Obstetrics and Gynecology Surgery"
+      ],
+      "meetingUrl": "https://annualmeeting.acog.org/",
+      "sourceUrl": "https://www.acog.org/education-and-events/meetings/acog-annual-clinical-and-scientific-meeting",
+      "sourceType": "official",
+      "reviewStatus": "confirmed",
+      "lastChecked": null,
+      "flags": []
+    },
+    {
+      "id": "sages-annual-meeting-2026",
+      "name": "SAGES Annual Meeting 2026",
+      "year": 2026,
+      "categories": [
+        "Metabolic & Abdominal Wall Reconstructive Surgery",
+        "Hepatobiliary and Pancreas Surgery"
+      ],
+      "meetingUrl": "https://www.sages.org/annual-meeting/",
+      "sourceUrl": "",
+      "sourceType": "official",
+      "reviewStatus": "confirmed",
+      "lastChecked": null,
+      "flags": []
+    },
+    {
+      "id": "ssat-annual-meeting-2026",
+      "name": "SSAT 67th Annual Meeting",
+      "year": 2026,
+      "categories": [
+        "Trauma, Critical Care, and General Surgery",
+        "Hepatobiliary and Pancreas Surgery"
+      ],
+      "meetingUrl": "https://meetings.ssat.com/",
+      "sourceUrl": "",
+      "sourceType": "official",
+      "reviewStatus": "confirmed",
+      "lastChecked": null,
+      "flags": []
+    },
+    {
+      "id": "aaoms-annual-meeting-2026",
+      "name": "108th AAOMS Annual Meeting",
+      "year": 2026,
+      "categories": [
+        "Oral and Maxillofacial Surgery"
+      ],
+      "meetingUrl": "https://aaoms.org/education-meetings/meetings/2026-annual-meeting/",
+      "sourceUrl": "https://aaoms.org/education-meetings/meetings/2026-annual-meeting/",
+      "sourceType": "official",
+      "reviewStatus": "confirmed",
+      "lastChecked": null,
+      "flags": []
+    },
+    {
+      "id": "aao-hnsf-annual-meeting-2026",
+      "name": "AAO-HNSF Annual Meeting & OTO EXPO 2026",
+      "year": 2026,
+      "categories": [
+        "Otolaryngology / Head and Neck Surgery"
+      ],
+      "meetingUrl": "https://www.entnet.org/events/annual-meeting/",
+      "sourceUrl": "https://www.entnet.org/events/annual-meeting/future-meeting-information/",
+      "sourceType": "official",
+      "reviewStatus": "confirmed",
+      "lastChecked": null,
+      "flags": []
+    },
+    {
+      "id": "ascvts-annual-meeting-2026",
+      "name": "ASCVTS 2026 Annual Meeting",
+      "year": 2026,
+      "categories": [
+        "Cardiothoracic Surgery",
+        "Cardiovascular Surgery",
+        "Thoracic Surgery"
+      ],
+      "meetingUrl": "",
+      "sourceUrl": "https://www.ctsnet.org/events/34th-annual-meeting-asian-society-cardiovascular-and-thoracic-surgery-ascvts-2026",
+      "sourceType": "trusted-directory",
+      "reviewStatus": "candidate",
+      "lastChecked": null,
+      "flags": []
+    }
+  ],
+  "notes": [
+    "This pipeline is review-oriented and source-registry based.",
+    "Trusted directories can be used for discovery, but official society or meeting pages should remain the preferred source of truth whenever available.",
+    "It does not claim automated scraping of official sites.",
+    "Add or update curated records in src/data/conferenceSources.json, then rerun the pipeline."
+  ],
+  "sourceGroupCounts": {
+    "officialSocieties": 5,
+    "trustedDirectories": 4,
+    "broadAggregators": 1,
+    "legacyManual": 0
+  }
+}

@@ -9,6 +9,7 @@ jest.mock(
     Navigate: () => null,
     Route: ({ element }) => element,
     Routes: ({ children }) => <>{children}</>,
+    useLocation: () => ({ pathname: '/' }),
     NavLink: ({ children, to, className }) => (
       <a href={to} className={typeof className === 'function' ? className({ isActive: false }) : className}>
         {children}
@@ -24,10 +25,10 @@ jest.mock(
   { virtual: true }
 );
 
-test('renders SurgCon platform heading', () => {
+test('renders SurgCon home experience', () => {
   render(<App />);
-  const headingElement = screen.getByText(
-    /SurgCon brings surgical conferences and academic collaboration into one platform/i
-  );
-  expect(headingElement).toBeInTheDocument();
+  expect(
+    screen.getByText(/A modern surgical conference platform for discovery, deadlines, bookmarks, exports, and maintainable data review/i)
+  ).toBeInTheDocument();
+  expect(screen.getByText(/Developed by/i)).toBeInTheDocument();
 });

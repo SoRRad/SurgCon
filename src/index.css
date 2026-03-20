@@ -1,26 +1,27 @@
-:root {
-  color-scheme: light;
+html {
+  box-sizing: border-box;
+  scroll-behavior: smooth;
 }
 
 *,
 *::before,
 *::after {
-  box-sizing: border-box;
-}
-
-html {
-  scroll-behavior: smooth;
+  box-sizing: inherit;
 }
 
 body {
   margin: 0;
-  font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  font-family: "Aptos", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  color: #14262c;
+  background: #eef1ec;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: #edf2f0;
 }
 
-a,
+a {
+  color: inherit;
+}
+
 button,
 input,
 select,
@@ -28,11 +29,8 @@ textarea {
   font: inherit;
 }
 
-img {
-  max-width: 100%;
+img,
+svg {
   display: block;
-}
-
-#root {
-  min-height: 100vh;
+  max-width: 100%;
 }

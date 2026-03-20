@@ -17,6 +17,12 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "refresh-data": "node scripts/generate-conferences.js",
+    "data:discover": "python scripts/discover_conferences.py",
+    "data:normalize": "python scripts/normalize_conferences.py",
+    "data:merge": "python scripts/merge_conferences.py",
+    "data:validate": "python scripts/validate_conferences.py",
+    "data:pipeline": "npm run data:discover && npm run data:normalize && npm run data:merge && npm run data:validate && npm run refresh-data",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "build": "react-scripts build",
