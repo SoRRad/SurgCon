@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SurgCon/static/css/main.cf09fa85.css",
+    "main.js": "/SurgCon/static/js/main.8e6c507d.js",
+    "static/js/453.6edf4697.chunk.js": "/SurgCon/static/js/453.6edf4697.chunk.js",
+    "index.html": "/SurgCon/index.html",
+    "main.cf09fa85.css.map": "/SurgCon/static/css/main.cf09fa85.css.map",
+    "main.8e6c507d.js.map": "/SurgCon/static/js/main.8e6c507d.js.map",
+    "453.6edf4697.chunk.js.map": "/SurgCon/static/js/453.6edf4697.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf09fa85.css",
+    "static/js/main.8e6c507d.js"
+  ]
+}
