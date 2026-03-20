@@ -1,0 +1,117 @@
+[
+  {
+    "id": "acs-clinical-congress",
+    "title": "ACS Clinical Congress",
+    "specialty": "General Surgery",
+    "location": "Chicago, Illinois",
+    "venue": "McCormick Place Convention Center",
+    "organizer": "American College of Surgeons",
+    "format": "In person",
+    "startDate": "2026-10-03",
+    "endDate": "2026-10-07",
+    "abstractDeadline": "2026-04-17",
+    "audience": "Academic surgeons, residents, fellows, and surgical educators",
+    "submissionType": "Scientific papers, posters, and video sessions",
+    "description": "A flagship surgical meeting with broad clinical, educational, and research programming.",
+    "collaborationFocus": "Multi-institution outcomes research and surgical education collaboration.",
+    "website": "https://www.facs.org/for-medical-professionals/conferences-and-meetings/clinical-congress/",
+    "featured": true,
+    "topics": [
+      "Surgical quality improvement",
+      "Resident education",
+      "Clinical outcomes research"
+    ]
+  },
+  {
+    "id": "academic-surgical-congress",
+    "title": "Academic Surgical Congress",
+    "specialty": "Academic Surgery",
+    "location": "San Diego, California",
+    "venue": "San Diego Convention Center",
+    "organizer": "Association for Academic Surgery and Society of University Surgeons",
+    "format": "Hybrid",
+    "startDate": "2027-01-27",
+    "endDate": "2027-01-29",
+    "abstractDeadline": "2026-08-28",
+    "audience": "Surgeon-scientists, trainees, research faculty, and academic leaders",
+    "submissionType": "Original research, quickshot presentations, and posters",
+    "description": "A research-driven forum centered on innovation, mentorship, and academic career development.",
+    "collaborationFocus": "Mentorship, trainee scholarship, and cross-institution research networks.",
+    "website": "https://www.academicsurgicalcongress.org/",
+    "featured": true,
+    "topics": [
+      "Health services research",
+      "Surgical innovation",
+      "Diversity and mentorship"
+    ]
+  },
+  {
+    "id": "aast-annual-meeting",
+    "title": "AAST Annual Meeting",
+    "specialty": "Trauma Surgery",
+    "location": "Austin, Texas",
+    "venue": "Austin Convention Center",
+    "organizer": "American Association for the Surgery of Trauma",
+    "format": "In person",
+    "startDate": "2026-09-16",
+    "endDate": "2026-09-19",
+    "abstractDeadline": "2026-03-30",
+    "audience": "Trauma surgeons, acute care surgeons, fellows, and emergency surgery researchers",
+    "submissionType": "Podium abstracts, posters, and multicenter study updates",
+    "description": "An acute care and trauma surgery meeting focused on evidence, systems, and team-based care.",
+    "collaborationFocus": "Trauma registries, multicenter trials, and acute care surgery research.",
+    "website": "https://www.aast.org/annual-meeting",
+    "featured": false,
+    "topics": [
+      "Trauma systems",
+      "Emergency general surgery",
+      "Critical care"
+    ]
+  },
+  {
+    "id": "ssat-annual-meeting",
+    "title": "SSAT Annual Meeting",
+    "specialty": "GI Surgery",
+    "location": "Boston, Massachusetts",
+    "venue": "Boston Convention and Exhibition Center",
+    "organizer": "Society for Surgery of the Alimentary Tract",
+    "format": "In person",
+    "startDate": "2026-05-02",
+    "endDate": "2026-05-05",
+    "abstractDeadline": "2025-11-21",
+    "audience": "GI surgeons, translational scientists, and digestive disease specialists",
+    "submissionType": "Oral presentations, posters, and video case sessions",
+    "description": "A digestive surgery meeting that blends translational science, clinical techniques, and academic networking.",
+    "collaborationFocus": "Translational GI research and society-driven research working groups.",
+    "website": "https://ssat.com/annual-meeting.cgi",
+    "featured": true,
+    "topics": [
+      "Hepatopancreatobiliary surgery",
+      "Colorectal research",
+      "Translational science"
+    ]
+  },
+  {
+    "id": "sts-annual-meeting",
+    "title": "STS Annual Meeting",
+    "specialty": "Cardiothoracic Surgery",
+    "location": "Phoenix, Arizona",
+    "venue": "Phoenix Convention Center",
+    "organizer": "The Society of Thoracic Surgeons",
+    "format": "Hybrid",
+    "startDate": "2027-01-23",
+    "endDate": "2027-01-25",
+    "abstractDeadline": "2026-08-14",
+    "audience": "Cardiothoracic surgeons, trainees, perfusion teams, and outcomes researchers",
+    "submissionType": "Scientific abstracts, case videos, and late-breaking trials",
+    "description": "A modern cardiothoracic meeting with a strong emphasis on outcomes, technology, and education.",
+    "collaborationFocus": "Registry science, simulation, and collaborative quality improvement.",
+    "website": "https://www.sts.org/meetings/sts-annual-meeting",
+    "featured": false,
+    "topics": [
+      "Adult cardiac surgery",
+      "Thoracic oncology",
+      "Outcomes and registries"
+    ]
+  }
+]
